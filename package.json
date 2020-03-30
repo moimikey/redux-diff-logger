@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/fcomb/redux-diff-logger#readme",
   "dependencies": {
-    "deep-diff": "^0.3.2"
+    "deep-diff": "^1.0.2"
   },
   "devDependencies": {
     "babel": "^5.8.21",
